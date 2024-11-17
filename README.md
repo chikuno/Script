@@ -6,13 +6,13 @@
 </i></b></h3>
 <h3 align="center">
   <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
-  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 PHOENIXTECH 𝙒𝙊𝙍𝙇𝘿 &nbsp;
+  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 LEMMAR 𝙒𝙊𝙍𝙇𝘿 &nbsp;
   <img src="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/xenon.jpg" width="25"> 
 </h3>
 <img align="center" alt="line" src="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/xenon.jpg">
 
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=XENON-𝐓𝐄𝐂𝐇" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=LEMMAR-𝐓𝐄𝐂𝐇" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙒𝙀+𝘼𝙍𝙀+PIRATES🏴‍☠️🥷🗽🧑‍💻🏂🐼🏄⛷️🌊;+𝙒𝙀+𝘿𝙊+𝐍𝐎𝙏+EXIST;YOU+ARE+PIRATES+;𝙒𝙀+ARE+COMMUNITY+BIG VILLA)](https://git.io/typing-svg)
 
@@ -27,13 +27,13 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/genz.sh && chmod +x genz.sh && ./genz.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/chikuno/Script/main/genz.sh && chmod +x genz.sh && ./genz.sh
 
 ```
 
 ### UPDATED SCRIPT
 ```
-wget https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/chikuno/Script/main/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 ### TESTED ON OS 
