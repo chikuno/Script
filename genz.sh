@@ -1,7 +1,7 @@
 #!/bin/bash
 # â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers Â» ðŸ—½ðŸ¥·ðŸŽ®ðŸ§‘â€ðŸ’»ðŸ”«TECH PHOENIXðŸ¥·ðŸ§‘â€ðŸ’»ðŸ—½XENON
+# Develovers Â» ðŸ—½ðŸ¥·ðŸŽ®ðŸ§‘â€ðŸ’»ðŸ”«NETCORE ðŸ¥·ðŸ§‘â€ðŸ’»ðŸ—½LEMMAR
 # Email      Â» Www.kheedrasachi@gmail.com
 # telegram   Â» https://t.me/legion_lemmar
 # whatsapp   Â» wa.me/++254792503850
