@@ -1,12 +1,12 @@
 #!/bin/bash
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » 🗽🥷🎮🧑‍💻🔫TECH PHOENIX🥷🧑‍💻🗽XENON
-# Email      » Www.kheedrasachi@gmail.com
-# telegram   » https://t.me/legion_lemmar
-# whatsapp   » wa.me/++254792503850
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🧑‍💻🏴�1�7�☠️🥷🗄1�7 Whiterose script 🧑‍💻🏴�1�7�☠️🥷🗄1�7
+# Develovers Â» ðŸ—½ðŸ¥·ðŸŽ®ðŸ§‘â€ðŸ’»ðŸ”«TECH PHOENIXðŸ¥·ðŸ§‘â€ðŸ’»ðŸ—½XENON
+# Email      Â» Www.kheedrasachi@gmail.com
+# telegram   Â» https://t.me/legion_lemmar
+# whatsapp   Â» wa.me/++254792503850
+# â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+# ðŸ§‘â€ðŸ’»ðŸ´â„1¤7â˜ ï¸ðŸ¥·ðŸ—„1¤7 Whiterose script ðŸ§‘â€ðŸ’»ðŸ´â„1¤7â˜ ï¸ðŸ¥·ðŸ—„1¤7
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -15,7 +15,7 @@ BLUE="\033[36m"
 FONT="\033[0m"
 GREENBG="\033[42;37m"
 REDBG="\033[41;37m"
-OK="${Green}  »${FONT}"
+OK="${Green}  Â»${FONT}"
 ERROR="${RED}[ERROR]${FONT}"
 GRAY="\e[1;30m"
 NC='\e[0m'
@@ -32,11 +32,11 @@ clear && clear && clear
 clear;clear;clear
 
   # // Banner
-echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${RED} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 🔫☁️🏴‍☠🧑‍💻☁LEMMAR 𝐒𝐓𝐎𝐑𝐄 ${NC}"
-echo -e "  Author : ${RED}⛷️🏄🏂🖥️🐼☣️⛽🏴‍☠️🥷🥸🗽🔫🎮☁️☁︄1�7 LEMMAR ${NC}${YELLOW}${NC}"
-echo -e "  ©2024  : ${BLUE} VVIP☁️🎮🔫♾️🗽🥸🥷🏴‍☠️🏄⛷️☣️🐼⌨️💻🪩🌐🌄1�7 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 ${NC}"
-echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+echo -e "${YELLOW}â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”${NC}"
+echo -e "  Script : ${RED} ð–ð„ð‹ð‚ðŽðŒð„ ð“ðŽ ðŸ”«â˜ï¸ðŸ´â€â˜ ðŸ§‘â€ðŸ’»â˜LEMMAR ð’ð“ðŽð‘ð„ ${NC}"
+echo -e "  Author : ${RED}â›·ï¸ðŸ„ðŸ‚ðŸ–¥ï¸ðŸ¼â˜£ï¸â›½ðŸ´â€â˜ ï¸ðŸ¥·ðŸ¥¸ðŸ—½ðŸ”«ðŸŽ®â˜ï¸â˜ï¸„1¤7 LEMMAR ${NC}${YELLOW}${NC}"
+echo -e "  Â©2024  : ${BLUE} VVIPâ˜ï¸ðŸŽ®ðŸ”«â™¾ï¸ðŸ—½ðŸ¥¸ðŸ¥·ðŸ´â€â˜ ï¸ðŸ„â›·ï¸â˜£ï¸ðŸ¼âŒ¨ï¸ðŸ’»ðŸª©ðŸŒðŸŒ„1¤7 ð„ðƒðˆð“ðˆðŽð ${NC}"
+echo -e "${YELLOW}â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”${NC}"
 echo ""
 sleep 2
 ###### IZIN SC 
@@ -103,9 +103,9 @@ function print_ok() {
     echo -e "${OK} ${BLUE} $1 ${FONT}"
 }
 function print_install() {
-	echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
-    echo -e "${YELLOW} » $1 ${FONT}"
-	echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
+	echo -e "${green} â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â” ${FONT}"
+    echo -e "${YELLOW} Â» $1 ${FONT}"
+	echo -e "${green} â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â” ${FONT}"
     sleep 1
 }
 
@@ -115,9 +115,9 @@ function print_error() {
 
 function print_success() {
     if [[ 0 -eq $? ]]; then
-		echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
-        echo -e "${Green} » $1 installed successfully"
-		echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
+		echo -e "${green} â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â” ${FONT}"
+        echo -e "${Green} Â» $1 installed successfully"
+		echo -e "${green} â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â” ${FONT}"
         sleep 2
     fi
 }
@@ -241,21 +241,21 @@ clear
 function pasang_domain() {
 echo -e ""
 clear
-echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo -e " â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”"
 echo -e " \e[1;32mPlease Select a Domain Type Below \e[0m"
-echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo -e " â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”"
 echo -e " \e[1;32m1)\e[0m Use Your Own Domain (Recommended)"
 echo -e " \e[1;32m2)\e[0m Use Random Domain"
-echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo -e " â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”"
 read -p " Please select numbers 1-2 or Any Button(Random) : " host
 echo ""
 if [[ $host == "1" ]]; then
 echo -e " \e[1;32mPlease Enter Your Subdomain $NC"
-echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”\033[0m"
 echo -e ""
 read -p " Input Domain : " host1
 echo -e ""
-echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”\033[0m"
 echo "IP=" >> /var/lib/kyt/ipvps.conf
 echo $host1 > /etc/xray/domain
 echo $host1 > /root/domain
@@ -320,9 +320,9 @@ KEY="8187081872:AAHKIZoMlkKioK-2MekNuEOs-GSCJeg306w"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
-<code>━━━━━━━━━━━━━━━━━━━━━━━━┄1�7</code>
-<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑�1�7�💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛄1�7 XENON STORE</b>
-<code>━━━━━━━━━━━━━━━━━━━━━━━━┄1�7</code>
+<code>â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”„1¤7</code>
+<b>WELCOME TO â›·ï¸ðŸ„â˜£ï¸ðŸ¼ðŸ—½â™¾ï¸ðŸ”«ðŸŽ®ðŸ—½ðŸ¥¸ðŸ¥·ðŸ´â€â˜ ï¸ðŸ§‘â„1¤7ðŸ’»ðŸ‚â˜ï¸â˜ï¸â˜ï¸â˜ï¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸â˜ï¸â˜ï¸â˜ï¸â˜ï¸â˜ï¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸â›½â›½â›½â›„1¤7 XENON STORE</b>
+<code>â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”„1¤7</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
 <code>IPVPS    :</code><code>$MYIP</code>
@@ -330,11 +330,11 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>DATE     :</code><code>$DATE</code>
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
-<code>━━━━━━━━━━━━━━━━━━━━━━━━┄1�7</code>
-<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑�1�7�💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛄1�7 XENON STORE</b>
-<code>━━━━━━━━━━━━━━━━━━━━━━━━┄1�7</code>
+<code>â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”„1¤7</code>
+<b>WELCOME TO â›·ï¸ðŸ„â˜£ï¸ðŸ¼ðŸ—½â™¾ï¸ðŸ”«ðŸŽ®ðŸ—½ðŸ¥¸ðŸ¥·ðŸ´â€â˜ ï¸ðŸ§‘â„1¤7ðŸ’»ðŸ‚â˜ï¸â˜ï¸â˜ï¸â˜ï¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸â˜ï¸â˜ï¸â˜ï¸â˜ï¸â˜ï¸ðŸ›¸ðŸ›¸ðŸ›¸ðŸ›¸â›½â›½â›½â›„1¤7 XENON STORE</b>
+<code>â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”„1¤7</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʄ1�7ᴅᴇʀ","url":"https://wa.me/++254705470210"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"á´Ê„1¤7á´…á´‡Ê€","url":"https://wa.me/++254705470210"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
@@ -541,7 +541,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Installing Service Limit IP & Quota"
-wget -q https://raw.githubusercontent.com/chikuno/Script/main/ubuntu/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
+wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
 
 # // Installing UDP Mini
 mkdir -p /usr/local/kyt/
